@@ -1,1 +1,16 @@
-# Math-Studio
+{
+  "name": "Math Homework Solver",
+  "short_name": "MathSolver",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
